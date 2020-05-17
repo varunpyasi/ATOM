@@ -1,2 +1,2 @@
-# ATOM
-This is just a learning project for me
+# TTP - The Teaton Photography
+Project for learning and creating app for TTP. 
